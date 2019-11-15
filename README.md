@@ -8,4 +8,4 @@ Neural Style Tranfer on python using VGG
 Content and Style are urls of Images
 
 
-![](https://drive.google.com/open?id=1DnBmzWKRU0ivXkfiR-uxE5-PUNTWi9ni)
+![](result.png)
